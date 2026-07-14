@@ -16,4 +16,3 @@ Exemplo:
 
 def aplicar_desconto(precos):
     return list(map(lambda preco: round(preco * 0.9, 2), precos))
-    
