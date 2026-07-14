@@ -1,4 +1,4 @@
-# Teste Técnico Python — Estágio / Desenvolvedor(a) Júnior
+# Teste Técnico Python — Estágio / Desenvolvedor(a) Júnior - GE Finance
 
 Resoluções do teste técnico de Python com foco em **funções simples** e **expressões lambda**.
 
