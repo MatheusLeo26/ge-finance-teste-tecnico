@@ -1,12 +1,12 @@
-# 🐍 Teste Técnico Python — Estágio / Desenvolvedor(a) Júnior
+# Teste Técnico Python — Estágio / Desenvolvedor(a) Júnior
 
 Resoluções do teste técnico de Python com foco em **funções simples** e **expressões lambda**.
 
-> **Resultado:** ✅ 14/14 testes passando (todas as questões + bônus)
+> **Resultado:** 14/14 testes passando (todas as questões + bônus)
 
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 codigo_base/
@@ -23,7 +23,7 @@ codigo_base/
 
 ---
 
-## 📝 Questões e Soluções
+## Questões e Soluções
 
 ### Q1 — Média de notas (2 pts)
 Função `calcular_media(notas)` que retorna a média arredondada para 2 casas decimais. Retorna `0.0` para lista vazia.
@@ -45,7 +45,7 @@ Função `total_acima_de(vendas, minimo)` que soma os valores das vendas estrita
 
 ---
 
-## 🚀 Como rodar os testes
+## Como rodar os testes
 
 ```bash
 python rodar_testes.py
@@ -53,7 +53,7 @@ python rodar_testes.py
 
 ---
 
-## ⚙️ Requisitos
+## Requisitos
 
 - Python 3.x
 - Nenhuma biblioteca externa — apenas a biblioteca padrão do Python
